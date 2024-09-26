@@ -8,3 +8,4 @@ int main() {
     printf("你輸入的數字是: %d\n", num);
     return 0;
 }
+10
