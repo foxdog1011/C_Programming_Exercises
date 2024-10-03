@@ -5,7 +5,7 @@ int main() {
 
     // 提示用戶輸入成績
     printf("請輸入成績 (0-100): ");
-    scanf("%d", &score);
+    scanf("%d",&score);
 
     // 根據成績判斷等級
     if (score >= 90) {
